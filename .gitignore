@@ -1,0 +1,6 @@
+# 缓存（增量指标，勿删 — 断点续抓依赖它）
+cache/
+# 生成品由 Actions 重建，但保留在仓库中以便 Pages 直发
+# public/ 保留
+node_modules/
+*.log
